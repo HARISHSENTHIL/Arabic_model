@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+soundfile
+librosa
+torch
+torchaudio
+nemo_toolkit[asr]
+pyannote.audio
+huggingface_hub
+onnx==1.16.1
+numpy<=2.2.0
