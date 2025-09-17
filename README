@@ -1,5 +1,0 @@
-
-
-conda create -n arabic_asr python=3.10 -y
-conda activate arabic_asr
-pip install -r requirements.txt
