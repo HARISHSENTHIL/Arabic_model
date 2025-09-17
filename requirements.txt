@@ -3,10 +3,10 @@ uvicorn[standard]
 python-dotenv
 soundfile
 librosa
-torch
-torchaudio
+torch>=2.7.0
+torchaudio>=2.7.0
 nemo_toolkit[asr]
 pyannote.audio
 huggingface_hub
 onnx==1.16.1
-numpy<=2.2.0
+numpy==1.24.4
